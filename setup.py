@@ -17,7 +17,8 @@ VERSION = None
 
 REQUIRED = [
     "numpy",
-    "matplotlin"
+    "matplotlib",
+    "colour"
     
 ]
 
