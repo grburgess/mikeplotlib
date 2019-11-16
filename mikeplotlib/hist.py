@@ -5,7 +5,17 @@ import matplotlib.colors as colors
 
 from mikeplotlib.utils.colorscale import colorscale
 
-def hist(data, color='#C61C1C', ax=None, **kwargs):
+def hist(data, color='#3FF1A6', ax=None, **kwargs):
+    """
+    a custom hist 
+
+    :param data: 
+    :param color: 
+    :param ax: 
+    :returns: 
+    :rtype: 
+
+    """
 
     if ax is None:
 
